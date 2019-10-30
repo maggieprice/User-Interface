@@ -76,3 +76,12 @@ h1 {
 	text-align: center;
 	
 }
+
+.top {
+	display:inline-block;
+	width:30%;
+}
+.one {
+	display:inline-block;
+	width:30%;
+}
