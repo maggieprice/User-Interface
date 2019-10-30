@@ -64,3 +64,15 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+.nav { 
+	Display: inline-block;
+	margin:25%;
+}
+h1 {
+	Display:block;
+	color:black;
+	font-size: 30px;
+	margin:5%;
+	text-align: center;
+	
+}
